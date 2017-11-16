@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 cd $HOME/sin-chi
-wget https://valtman.name/files/telegram-bot-171115-nightly-linux
-mv telegram-bot-171115-nightly-linux tb
+wget https://valtman.name/files/telegram-bot-171116-nightly-linux
+mv telegram-bot-171116-nightly-linux tb
 
  sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev -y
 sudo apt-get install lua-lgi -y
